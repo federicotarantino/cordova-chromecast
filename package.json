@@ -1,5 +1,5 @@
 {
-  "name": "Chromecast",
+  "name": "cordova-chromecast",
   "version": "1.0.3",
   "description": "Web intents for Cordova",
   "cordova": {
