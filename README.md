@@ -4,10 +4,10 @@ cordova-chromecast
 Chromecast in Cordova
 
 ##Installation
-For now, add the plugin from this repository, we'll publish soon with more progress.
+For now, add the plugin from this repository.
 
 ```
-cordova plugin add https://github.com/GetVideostream/cordova-chromecast.git
+cordova plugin add https://github.com/federicotarantino/cordova-chromecast.git
 ```
 
 If you have NodeJS installed, the dependencies should be automatically copied.
